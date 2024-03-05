@@ -5,6 +5,7 @@ I tried to represent the inscribed wheel in the paper and turned it into a Color
 The Color Wheel Picker can maintain:
 1. Linear separation
 2. Constant distance
+   
 (Those two are described as requirements for choosing colors)
 
 Color Model: CIE Luv 1976, L=67.1
