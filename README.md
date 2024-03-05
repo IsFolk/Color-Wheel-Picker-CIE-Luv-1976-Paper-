@@ -1,3 +1,20 @@
+# Color Wheel Picker
+## Description
+I tried to represent the inscribed wheel in the paper and turned it into a Color Wheel Picker.
+The Color Wheel Picker can maintain 1. linear separation and 2. constant distance (those two are described as requirements for choosing colors).
+
+Color Model: CIE Luv 1976, L=67.1
+
+## Demo
+https://youtu.be/sE8FK4JI-vo
+[![Demo Video](https://github.com/IsFolk/Color-Wheel-Picker-CIE-Luv-1976-Paper-/assets/61446488/f4d2d9ec-8a37-4852-97a2-a3330ce5305e)](https://www.youtube.com/watch?v=sE8FK4JI-vo)
+
+## Reference:
+Healey, C. G. (1996). Choosing effective colours for data visualization. Proceedings of Seventh Annual IEEE Visualization'96, 263-270.
+
+
+
+========================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
