@@ -1,6 +1,6 @@
 # Color Wheel Picker
 ## Description
-I tried to represent the maximum inscribed circle mentioned in the paper and turned it into a Color Wheel Picker.
+I tried to reproduce the maximum inscribed circle mentioned in the paper and turned it into a Color Wheel Picker.
 
 The Color Wheel Picker can maintain:
 1. Linear separation
