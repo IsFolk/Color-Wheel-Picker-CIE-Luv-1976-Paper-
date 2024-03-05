@@ -15,11 +15,11 @@ https://youtu.be/sE8FK4JI-vo
 [![Demo Video](https://github.com/IsFolk/Color-Wheel-Picker-CIE-Luv-1976-Paper-/assets/61446488/f4d2d9ec-8a37-4852-97a2-a3330ce5305e)](https://www.youtube.com/watch?v=sE8FK4JI-vo)
 
 ## Reference:
-Healey, C. G. (1996). Choosing effective colours for data visualization. Proceedings of Seventh Annual IEEE Visualization'96, 263-270.
+Paper: Healey, C. G. (1996). Choosing effective colours for data visualization. Proceedings of Seventh Annual IEEE Visualization'96, 263-270.
 
-https://www.npmjs.com/package/color-space?fbclid=IwAR3bSIct09tPYLOunsYs2BySSA2lg4NjTp3LKiX1f0-l9-wjJ0TdtnzgC18
+Luv color to RGB: https://www.npmjs.com/package/color-space?fbclid=IwAR3bSIct09tPYLOunsYs2BySSA2lg4NjTp3LKiX1f0-l9-wjJ0TdtnzgC18
 
-https://en.wikipedia.org/wiki/CIELUV
+CIE LUV explanation: https://en.wikipedia.org/wiki/CIELUV
 
 
 
