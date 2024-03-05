@@ -17,6 +17,8 @@ https://youtu.be/sE8FK4JI-vo
 ## Reference:
 Healey, C. G. (1996). Choosing effective colours for data visualization. Proceedings of Seventh Annual IEEE Visualization'96, 263-270.
 
+https://www.npmjs.com/package/color-space?fbclid=IwAR3bSIct09tPYLOunsYs2BySSA2lg4NjTp3LKiX1f0-l9-wjJ0TdtnzgC18
+
 https://en.wikipedia.org/wiki/CIELUV
 
 
