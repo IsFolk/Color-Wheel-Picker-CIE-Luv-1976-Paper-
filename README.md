@@ -19,7 +19,7 @@ Paper: Healey, C. G. (1996). Choosing effective colours for data visualization. 
 
 Luv color to RGB: https://www.npmjs.com/package/color-space?fbclid=IwAR3bSIct09tPYLOunsYs2BySSA2lg4NjTp3LKiX1f0-l9-wjJ0TdtnzgC18
 
-CIE LUV explanation: https://en.wikipedia.org/wiki/CIELUV
+CIE Luv explanation: https://en.wikipedia.org/wiki/CIELUV
 
 
 
