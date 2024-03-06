@@ -1,6 +1,6 @@
 # Color Wheel Picker
 ## Description
-I tried to reproduce the maximum inscribed circle mentioned in the paper and turned it into a Color Wheel Picker with ReactJS.
+I tried to reproduce the maximum inscribed circle mentioned in the paper "Choosing effective colours for data visualization." and turned it into a Color Wheel Picker with ReactJS.
 
 The Color Wheel Picker can maintain:
 1. Linear separation
